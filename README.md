@@ -1,4 +1,4 @@
-# Assignment 2
+# News Aggregation Site
 
 An Article aggregator website that allows you to make an account and make 
 articles that can be edit and delete only by the account that made the said article.
